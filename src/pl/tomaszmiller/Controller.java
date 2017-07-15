@@ -1,4 +1,4 @@
-package sample;
+package pl.tomaszmiller;
 
 public class Controller {
 }
