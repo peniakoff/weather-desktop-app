@@ -23,3 +23,7 @@ hs_err_pid*
 .idea/
 WeatherDesktopApp.iml
 src/test/
+target/classes/sample.fxml
+target/generated-sources/
+target/maven-archiver/
+target/maven-status/
