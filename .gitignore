@@ -27,3 +27,6 @@ target/classes/sample.fxml
 target/generated-sources/
 target/maven-archiver/
 target/maven-status/
+.gradle/
+target/classes/mainView.fxml
+/src/main/java/pl/tomaszmiller/models/Config.java
